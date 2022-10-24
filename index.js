@@ -21,7 +21,7 @@
     var map = L.map(mapid, {
       //added from storymap
       center: [4900, 3015],
-      zoom: 1,
+      zoom: 0,
       scrollWheelZoom: false,
       //
       minZoom: minZoom,
