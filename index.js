@@ -2,7 +2,7 @@
 ;(function (window) {
   var imageContainerMargin = 50;  // Margin + padding
 
-// This watches for the scrollable container
+// This watches for the scrollable container test1
   var scrollPosition = 0;
 
   $('div#contents').scroll(function() {
