@@ -13,15 +13,15 @@
     var minZoom = 0
     var maxZoom = 5
     var img = [
-      6639,
-      8185
+      4945,
+      7150
     ]
 
     // create the map
     var map = L.map(mapid, {
       //added from storymap
       center: [4900, 3015],
-      zoom: 0,
+      zoom: 1,
       scrollWheelZoom: false,
       //
       minZoom: minZoom,
