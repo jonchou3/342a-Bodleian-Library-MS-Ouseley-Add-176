@@ -67,7 +67,7 @@ body {
     padding: 0px;
 }
 
-h3 {
+h2 { 
     margin-bottom: 0px;
 }
 
@@ -122,6 +122,8 @@ h3 {
     text-align: left;
     font-size: 11pt;
     padding: 20px;
+    white-space: pre-line;
+    line-height: 140%;
 }
 
 .inFocus {
