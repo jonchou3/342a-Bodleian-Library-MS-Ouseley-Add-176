@@ -22,7 +22,7 @@
       //added from storymap
       center: [4900, 3015],
       zoom: 1,
-      scrollWheelZoom: false,
+      //scrollWheelZoom: false,
       //
       minZoom: minZoom,
       maxZoom: maxZoom
