@@ -51,7 +51,7 @@
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"A 19th century mace, created in an homage to Bahram Gur’s weapon",
     "source-link":"https://collectionapi.metmuseum.org/api/collection/v1/iiif/30858/61522/main-image",
-    "description":"According to the written story, Bahram bravely confronts the two fearsome lions with a bold stance and ox-head mace in hand. “One on the instant snapped its chain and charged The exalted king. That hero smote its head; And dimmed its eyes, then going to the other; Smote its head whence the blood ran down its breast (Warner 1912, 410)” From this excerpt from the translated Shahnameh, Bahram swiftly takes down both lions with ease. His weapon of choice, the ox-head mace, is also a weapon of war. As such, his prowess with a weapon of war is a signal of his battle skills. Since he was a young royal, Bahram was trained in the Lakhmid court in the various skills necessary for a potential heir to the throne, such as hunting and combat skills. Here, in a grand display in front of the Perian court and ruling shah, Khusrau, he gets to demonstrate his skills. These skills are a very convincing reason for the court and Khusrau to view Bahram as a capable and effective ruler."},
+    "description":"According to the written story, Bahram bravely confronts the two fearsome lions with a bold stance and ox-head mace in hand. \“One on the instant snapped its chain and charged The exalted king. That hero smote its head; And dimmed its eyes, then going to the other; Smote its head whence the blood ran down its breast (Warner 1912, 410)\” From this excerpt from the translated Shahnameh, Bahram swiftly takes down both lions with ease. His weapon of choice, the ox-head mace, is also a weapon of war. As such, his prowess with a weapon of war is a signal of his battle skills. Since he was a young royal, Bahram was trained in the Lakhmid court in the various skills necessary for a potential heir to the throne, such as hunting and combat skills. Here, in a grand display in front of the Perian court and ruling shah, Khusrau, he gets to demonstrate his skills. These skills are a very convincing reason for the court and Khusrau to view Bahram as a capable and effective ruler."},
     "geometry":{"type":"Point","coordinates":[1993,5164]}},
   {"type":"Feature","properties":
     {"id":7,
@@ -96,12 +96,12 @@
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"Soucek, Priscilla P. “Color Symbolism in Persian Literature.” Edited by Annemarie Schimmel. RSS. Encyclopædia Iranica Foundation, October 26, 2011. https://www.iranicaonline.org/articles/color-pers-rang.
-    The Editors of Encyclopaedia Britannica. “Nastaʿlīq Script.” Encyclopædia Britannica. Encyclopædia Britannica, inc., July 20, 1998. https://www.britannica.com/topic/nastaliq-script.
-    Unknown. “ Qur'an of Ibrahim Sultan .” Metmuseum.org. The Metropolitan Museum of Art. Accessed November 20, 2022. https://www.metmuseum.org/art/collection/search/446539.
-    Unknown. “Bahram Gur Fights Two Lions to Win the Throne.” Aga Khan Museum. The Aga Khan Museum. Accessed November 20, 2022. https://www.agakhanmuseum.org/collection/artifact/bahram-gur-fights-two-lions-to-win-the-throne-akm444.
-    Warner, A. G., and E. Warner. “Yazdagird Son of Shapur.” Essay. In Shahnama of Firdausi 6, 6:410. London: Kegan Paul Trench, 1912.
-    Watson, Alasdair. “The Shāhnāmah of Ibrāhīm Sulṭān – Available Online from Digital.Bodleian.” Archives and Manuscripts at the Bodleian Library. Bodleian Libraries University of Oxford, March 12, 2018. https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2018/03/05/the-shahnamah-of-ibrahim-sul%E1%B9%ADan-available-online-from-digital-bodleian/."},
+    "description":"Soucek, Priscilla P. \“Color Symbolism in Persian Literature.\” Edited by Annemarie Schimmel. RSS. Encyclopædia Iranica Foundation, October 26, 2011. https:\/\/www.iranicaonline.org\/articles\/color-pers-rang.
+    The Editors of Encyclopaedia Britannica. \“Nastaʿlīq Script.\” Encyclopædia Britannica. Encyclopædia Britannica, inc., July 20, 1998. https:\/\/www.britannica.com\/topic\/nastaliq-script.
+    Unknown. \“ Qur'an of Ibrahim Sultan .\” Metmuseum.org. The Metropolitan Museum of Art. Accessed November 20, 2022. https:\/\/www.metmuseum.org\/art\/collection\/search\/446539.
+    Unknown. \“Bahram Gur Fights Two Lions to Win the Throne.\” Aga Khan Museum. The Aga Khan Museum. Accessed November 20, 2022. https:\/\/www.agakhanmuseum.org\/collection\/artifact\/bahram-gur-fights-two-lions-to-win-the-throne-akm444.
+    Warner, A. G., and E. Warner. \“Yazdagird Son of Shapur.\” Essay. In Shahnama of Firdausi 6, 6:410. London: Kegan Paul Trench, 1912.
+    Watson, Alasdair. “The Shāhnāmah of Ibrāhīm Sulṭān – Available Online from Digital.Bodleian.” Archives and Manuscripts at the Bodleian Library. Bodleian Libraries University of Oxford, March 12, 2018. https:\/\/blogs.bodleian.ox.ac.uk\/archivesandmanuscripts\/2018\/03\/05\/the-shahnamah-of-ibrahim-sul%E1%B9%ADan-available-online-from-digital-bodleian\/."},
     "geometry":{"type":"Point","coordinates":[200,7026]}},
   {"type":"Feature","properties":
     {"id":12,
