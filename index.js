@@ -32,7 +32,7 @@
     var rc = new L.RasterCoords(map, img)
 
     // set the view on a marker ...
-    map.setView(rc.unproject([4900, 3015]), 1)
+    map.setView(rc.unproject([2400, 3015]), 1)
 /*
     // add layer control object
     L.control.layers({}, {
@@ -46,7 +46,7 @@
     // Look into line 49
     L.tileLayer('./tiles/{z}/{x}/{y}.png', {
       noWrap: true,
-      attribution: '<a href="<https://www.loc.gov/resource/g3200.mf000070/>"Library of Congress</a>'
+      //attribution: '<a href="<https://www.loc.gov/resource/g3200.mf000070/>"Library of Congress</a>'
     }).addTo(map)
 
   $.getJSON('map.geojson', function(data) {
