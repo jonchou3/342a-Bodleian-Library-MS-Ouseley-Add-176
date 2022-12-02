@@ -1,7 +1,7 @@
 body {
     padding: 0px;
     margin: 0px;
-    font-family: "Helvetica", sans-serif;
+    font-family: "Garamond";
     overflow: hidden;
 }
 
@@ -56,10 +56,12 @@ body {
 }
 
 #title {
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
     position: absolute;
     right: 0px;
     top: 0px;
-    background-color: white;
+    background-color: rgb(223, 234, 172);
     width: 30vw;
     min-width: 300px;
     z-index: 100;
