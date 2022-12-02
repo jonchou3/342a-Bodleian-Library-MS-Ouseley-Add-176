@@ -61,7 +61,7 @@
         // OR remove the next 6 lines for default blue Leaflet markers
         var numericMarker = L.ExtraMarkers.icon({
           icon: 'fa-number',
-          number: feature.properties[(1+'id')],
+          number: feature.properties['id'],
           markerColor: 'blue'
         });
         layer.setIcon(numericMarker);
