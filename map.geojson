@@ -2,7 +2,7 @@
   {"type":"Feature","properties":
     {"id":1,
     "chapter":"Chapter 1: Bahram Gur's Challenge to Khusrau",
-    "zoom":1,
+    "zoom":2,
     "image":"img/pictorial-st-louis.png",
     "source-credit":"An ancient depiction of a Persian lion; Oriental Institute Museum of the University of Chicago",
     "source-link":"https://live.staticflickr.com/4752/25610890427_aa63b07b52_b.jpg",
@@ -20,9 +20,9 @@
   {"type":"Feature","properties":
     {"id":3,
     "chapter":"Chapter 3: The Lion's Cowardly Visage",
-    "zoom":2,
+    "zoom":3,
     "image":"img/pictorial-st-louis-water-works.png",
-    "source-credit":"Focus on Bahram Gur's hunting prowess and fear shown by the lions",
+    "source-credit":"5th CE plate with a hunting scene from the tale of Bahram Gur and Azadeh",
     "source-link":"https://collectionapi.metmuseum.org/api/collection/v1/iiif/322973/711830/main-image",
     "description":"According to the Shahnama, Bahram brought two fierce lions with him when he arrived to challenge Khusrau's throne and gave them to the high priest to set up an arena where the trial could take place. The handlers who dragged the lions into place are described as being extremely frightened of the fierce lions, who are now shown cowering in fear. This is a display of Bahram's strong hunting skills. Bahram's hunting prowess is well documented in folklore and certainly in the Shahnama. In this part of the image, the lions are shown cowering in fear from Bahram and his mace. Their turned faces indicate Bahram's skilled hunting mastery over them, something which is commonly used in the Shahnama and other Persian stories as an indicator of great combat capabilities. Rustam, also in the Shahnama, is another example of a great warrior who is displayed as having amazing hunting prowess."},
     "geometry":{"type":"Point","coordinates":[4250,5937]}},
@@ -47,7 +47,7 @@
   {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 6: Bahram's Ox-Head Mace",
-    "zoom":2,
+    "zoom":4,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"A 19th century mace, created in an homage to Bahram Gur's weapon",
     "source-link":"https://collectionapi.metmuseum.org/api/collection/v1/iiif/30858/61522/main-image",
@@ -56,7 +56,7 @@
   {"type":"Feature","properties":
     {"id":7,
     "chapter":"Chapter 7: Khusrau's Quiver",
-    "zoom":3,
+    "zoom":4,
     "image":"img/pictorial-st-louis-cemetery.png",
     "source-credit":"An Achaemenid Archer with a composite bow.",
     "source-link":"https://legioilynx.files.wordpress.com/2014/02/achaemenid_archer_200.gif?w=200&zoom=2",
@@ -83,7 +83,7 @@
   {"type":"Feature","properties":
     {"id":10,
     "chapter":"Chapter 10: The Stylized Persian Text",
-    "zoom":4,
+    "zoom":3,
     "image":"img/pictorial-st-louis-cemetery.png",
     "source-credit":"A modern stylized example of Nasta'liq script",
     "source-link":"https://www.arabic-calligraphy.com/wp-content/uploads/2017/01/Nastaliq-1.png",
@@ -92,7 +92,7 @@
   {"type":"Feature","properties":
     {"id":11,
     "chapter":"Chapter 11: References",
-    "zoom":1,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -101,7 +101,7 @@
   {"type":"Feature","properties":
     {"id":12,
     "chapter":"Chapter 12: How to cite this",
-    "zoom":1,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"",
