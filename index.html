@@ -23,6 +23,7 @@
   <body class="block border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 rounded-md shadow-sm">
     <div id="title" class="title-text" >
       <h3>Bahram Gur Fights Two Lions</h3>
+        <button onclick="myFunction()">Hide/Show</button>
         <small>Scroll to navigate <i class="fa fa-chevron-down"></i></small>
         <br><br>
     </div>
@@ -32,6 +33,16 @@
       </div>
     </div>
     <div id="map"></div>
+    <script>
+      function myFunction() {
+        var x = document.getElementById("narration");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+        } else {
+          x.style.display = "none";
+        }
+      }
+      </script>
     <script src="rastercoords.js"></script>
     <script src="index.js"></script>
   </body>
