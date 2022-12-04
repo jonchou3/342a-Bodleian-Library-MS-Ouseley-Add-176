@@ -11,7 +11,7 @@ Mobile-friendly, interactive digital image interpretation created using:
 
 ## Check It Out
 https://hkeshani.github.io/shahnama-storyscroll/
-
+https://jonchou3.github.io/342a-Bodleian-Library-MS-Ouseley-Add-176/
 
 ## Instructions
 
@@ -35,4 +35,4 @@ gdal2tiles.py -l -p raster -z 0-5 -w none <image> <tilesdir>
 ## To Do
 
 * Add text attribution link to index.js & map.geojson
-* Fix accuracy of marker zoom
+* Fix accuracy of marker zoom //Jon: fixed in index.js by adding flat px value to scrollTop (program was probably detecting the scrollTop value as identical to the chapter previous to the selected chapter.)

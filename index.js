@@ -20,8 +20,8 @@
     // create the map
     var map = L.map(mapid, {
       //added from storymap
-      center: [4900, 3015],
-      zoom: 1,
+      //center: [4900, 3015],
+      //zoom: 1,
       //scrollWheelZoom: false,
       //
       minZoom: minZoom,
@@ -32,7 +32,7 @@
     var rc = new L.RasterCoords(map, img)
 
     // set the view on a marker ...
-    map.setView(rc.unproject([2400, 3015]), 1)
+    //map.setView(rc.unproject([2400, 3015]), 1)
 /*
     // add layer control object
     L.control.layers({}, {
