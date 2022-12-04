@@ -25,7 +25,7 @@
       <h3>Bahram Gur Fights Two Lions</h3>
         
         <small>Scroll to navigate <i class="fa fa-chevron-down"></i></small>
-        <button onclick="myFunction()">Hide/Show</button>
+        <button onclick="hideFunction()">Hide/Show</button>
         <br><br>
     </div>
     <div id="narration">
@@ -35,7 +35,7 @@
     </div>
     <div id="map"></div>
     <script>
-      function myFunction() {
+      function hideFunction() {//used for hide/show button on narration section
         var x = document.getElementById("narration");
         if (x.style.display === "none") {
           x.style.display = "block";
