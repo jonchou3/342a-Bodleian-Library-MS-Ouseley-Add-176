@@ -1,7 +1,7 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Chapter 1: Bahram Gur's Challenge to Khusrau",
+    "chapter":"Bodleian Library MS. Ouseley Add. 176 fol. 342a",
     "zoom":2,
     "image":"img/persianLion.jpg",
     "source-credit":"An ancient depiction of a Persian lion; Oriental Institute Museum of the University of Chicago",
